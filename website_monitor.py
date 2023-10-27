@@ -13,6 +13,7 @@ urls = ['https://www.clio.com/about/careers/search/?teams=engineering&locations=
         'https://bcpublicservice.hua.hrsmart.com/hr/ats/JobSearch/search',
         'https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?search=Search%20jobs&locationsFilter=&officialLanguage=&title=Software%20Developer&referenceNumber=&tab=1&nonProgram=1&selectionProcessNumber=&departments=&log=false'
         'https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?search=Search%20jobs&locationsFilter=&officialLanguage=&title=Software&referenceNumber=&tab=1&nonProgram=1&selectionProcessNumber=&departments=&log=false'
+        'https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?locationsFilter=&officialLanguage=&title=developer&referenceNumber=&tab=1&search=Search%20jobs&selectionProcessNumber=&departments=&log=false'
         ]
 hashes = {}
 
