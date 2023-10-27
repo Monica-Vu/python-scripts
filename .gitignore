@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,python
+# Created by https://www.toptal.com/developers/gitignore/api/python,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,macos
 
 ### macOS ###
 # General
@@ -206,4 +206,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,python
+# End of https://www.toptal.com/developers/gitignore/api/python,macos
